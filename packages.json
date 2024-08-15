@@ -75,6 +75,12 @@
     },
     {
         "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "pingr",
+        "maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
+        "url": "https://github.com/r-lib/pingr",
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
         "package": "ProtGenerics",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "url": "https://github.com/bioc/ProtGenerics",
