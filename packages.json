@@ -49,18 +49,21 @@
         "registry": "bioc"
     },
     {
+        "_comment": "TODO: Should not be needed, investigate later...",
         "package": "MetaboCoreUtils",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "url": "https://github.com/bioc/MetaboCoreUtils",
         "registry": "bioc"
     },
     {
+        "_comment": "TODO: Should not be needed, investigate later...",
         "package": "MsBackendMgf",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "url": "https://github.com/bioc/MsBackendMgf",
         "registry": "bioc"
     },
     {
+        "_comment": "TODO: Should not be needed, investigate later...",
         "package": "MsBackendMsp",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "url": "https://github.com/bioc/MsBackendMsp",
@@ -88,6 +91,7 @@
         "registry": "bioc"
     },
     {
+        "_comment": "TODO: Should not be needed, investigate later...",
         "package": "Spectra",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "url": "https://github.com/bioc/Spectra",
