@@ -15,6 +15,13 @@
     },
     {
         "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "BiocGenerics",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "url": "https://github.com/bioc/BiocGenerics",
+        "registry": "bioc"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
         "package": "BiocParallel",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
         "url": "https://github.com/bioc/BiocParallel",
@@ -22,9 +29,9 @@
     },
     {
         "_comment": "TODO: Should not be needed, investigate later...",
-        "package": "BiocGenerics",
+        "package": "BiocVersion",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
-        "url": "https://github.com/bioc/BiocGenerics",
+        "url": "https://github.com/bioc/BiocVersion",
         "registry": "bioc"
     },
     {
