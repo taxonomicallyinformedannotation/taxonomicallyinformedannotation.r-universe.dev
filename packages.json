@@ -1,5 +1,99 @@
 [
     {
+        "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "AnnotationFilter",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "url": "https://github.com/bioc/AnnotationFilter",
+        "registry": "bioc"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "Biobase",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "url": "https://github.com/bioc/Biobase",
+        "registry": "bioc"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "BiocGenerics",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "url": "https://github.com/bioc/BiocGenerics",
+        "registry": "bioc"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "BiocParallel",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "url": "https://github.com/bioc/BiocParallel",
+        "registry": "bioc"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "ChemmineR",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "url": "https://github.com/bioc/ChemmineR",
+        "registry": "bioc"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "GenomicRanges",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "url": "https://github.com/bioc/GenomicRanges",
+        "registry": "bioc"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "IRanges",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "url": "https://github.com/bioc/IRanges",
+        "registry": "bioc"
+    },
+    {
+        "package": "MetaboCoreUtils",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "url": "https://github.com/bioc/MetaboCoreUtils",
+        "registry": "bioc"
+    },
+    {
+        "package": "MsBackendMgf",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "url": "https://github.com/bioc/MsBackendMgf",
+        "registry": "bioc"
+    },
+    {
+        "package": "MsBackendMsp",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "url": "https://github.com/bioc/MsBackendMsp",
+        "registry": "bioc"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "MsCoreUtils",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "url": "https://github.com/bioc/MsCoreUtils",
+        "registry": "bioc"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "ProtGenerics",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "url": "https://github.com/bioc/ProtGenerics",
+        "registry": "bioc"
+    },
+    {
+        "_comment": "TODO: Should not be needed, investigate later...",
+        "package": "S4Vectors",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "url": "https://github.com/bioc/S4Vectors",
+        "registry": "bioc"
+    },
+    {
+        "package": "Spectra",
+        "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+        "url": "https://github.com/bioc/Spectra",
+        "registry": "bioc"
+    },
+    {
         "package": "tima",
         "maintainer": "Adriano Rutz <adafede@gmail.com>",
         "url": "https://github.com/taxonomicallyinformedannotation/tima"
