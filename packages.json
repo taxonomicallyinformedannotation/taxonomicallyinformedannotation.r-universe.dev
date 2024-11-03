@@ -1,5 +1,5 @@
 [
-        {
+    {
         "_comment": "TODO: Should not be needed, investigate later...",
         "package": "AnnotationFilter",
         "maintainer": "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
